@@ -7,13 +7,13 @@ This project is a machine learning application that classifies iris flowers into
 # Features
 - Classifies iris flowers based on sepal and petal length/width.
 - Trained on the classic **Iris dataset**.
-- Multiple models supported: KNN, Decision Tree, Random Forest, SVM.
+- Multiple models supported: Linear Regression, KNN, Decision Tree, Random Forest.
 - Evaluation metrics provided: accuracy, precision, recall, and F1-score.
 
 # Technologies Used
 - **Programming Language:** Python  
 - **ML Libraries:** Scikit-learn, Pandas, NumPy  
-- **Visualization (optional):** Matplotlib, Seaborn  
+- **Visualization:** Matplotlib, Seaborn  
 
 # Features Used in the Model
 - Sepal Length (cm)  
